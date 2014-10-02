@@ -1,0 +1,94 @@
+﻿<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 9.62'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:Description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>OLYMPUS DIGITAL CAMERA</rdf:li>
+   </rdf:Alt>
+  </dc:Description>
+  <dc:creator>
+   <rdf:Seq>
+    <rdf:li>Horst Puschmann</rdf:li>
+   </rdf:Seq>
+  </dc:creator>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:exif='http://ns.adobe.com/exif/1.0/'>
+  <exif:ColorSpace>1</exif:ColorSpace>
+  <exif:Contrast>0</exif:Contrast>
+  <exif:CustomRendered>0</exif:CustomRendered>
+  <exif:DateTimeDigitized>2014-06-01T10:48:24+01:00</exif:DateTimeDigitized>
+  <exif:DateTimeOriginal>2014-06-01T10:48:24+01:00</exif:DateTimeOriginal>
+  <exif:DigitalZoomRatio>1/1</exif:DigitalZoomRatio>
+  <exif:ExifVersion>0230</exif:ExifVersion>
+  <exif:ExposureBiasValue>0/1</exif:ExposureBiasValue>
+  <exif:ExposureMode>0</exif:ExposureMode>
+  <exif:ExposureProgram>2</exif:ExposureProgram>
+  <exif:ExposureTime>1/1250</exif:ExposureTime>
+  <exif:FNumber>71/10</exif:FNumber>
+  <exif:FileSource>3</exif:FileSource>
+  <exif:Flash rdf:parseType='Resource'>
+   <exif:Fired>False</exif:Fired>
+   <exif:Function>False</exif:Function>
+   <exif:Mode>1</exif:Mode>
+   <exif:RedEyeMode>False</exif:RedEyeMode>
+   <exif:Return>0</exif:Return>
+  </exif:Flash>
+  <exif:FlashpixVersion>0100</exif:FlashpixVersion>
+  <exif:FocalLength>20/1</exif:FocalLength>
+  <exif:GainControl>2</exif:GainControl>
+  <exif:ISOSpeedRatings>
+   <rdf:Seq>
+    <rdf:li>800</rdf:li>
+   </rdf:Seq>
+  </exif:ISOSpeedRatings>
+  <exif:LightSource>10</exif:LightSource>
+  <exif:MaxApertureValue>49/32</exif:MaxApertureValue>
+  <exif:MeteringMode>5</exif:MeteringMode>
+  <exif:Saturation>0</exif:Saturation>
+  <exif:SceneCaptureType>0</exif:SceneCaptureType>
+  <exif:Sharpness>0</exif:Sharpness>
+  <exif:WhiteBalance>1</exif:WhiteBalance>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'>
+  <tiff:BitsPerSample>
+   <rdf:Seq>
+    <rdf:li>16</rdf:li>
+   </rdf:Seq>
+  </tiff:BitsPerSample>
+  <tiff:Compression>1</tiff:Compression>
+  <tiff:ImageLength>3472</tiff:ImageLength>
+  <tiff:ImageWidth>4640</tiff:ImageWidth>
+  <tiff:Make>OLYMPUS IMAGING CORP.</tiff:Make>
+  <tiff:Model>E-M5</tiff:Model>
+  <tiff:Orientation>8</tiff:Orientation>
+  <tiff:PhotometricInterpretation>1</tiff:PhotometricInterpretation>
+  <tiff:PlanarConfiguration>1</tiff:PlanarConfiguration>
+  <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+  <tiff:SamplesPerPixel>1</tiff:SamplesPerPixel>
+  <tiff:XResolution>350/1</tiff:XResolution>
+  <tiff:YResolution>350/1</tiff:YResolution>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'>
+  <xap:CreateDate>2014-06-01T10:48:24+01:00</xap:CreateDate>
+  <xap:CreatorTool>photools.com IMatch 5.1.0.4 (Windows)</xap:CreatorTool>
+  <xap:MetadataDate>2014-07-21T21:57:11+01:00</xap:MetadataDate>
+  <xap:ModifyDate>2014-07-21T21:57:11+01:00</xap:ModifyDate>
+  <xap:Rating>4</xap:Rating>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/'>
+  <xapMM:DocumentID>230AAF7E087248BBBE02B65E147B3DDB</xapMM:DocumentID>
+  <xapMM:InstanceID>xmp.iid:2e4f6103-9d00-402f-b80a-15648006c5bb</xapMM:InstanceID>
+  <xapMM:OriginalDocumentID>230AAF7E087248BBBE02B65E147B3DDB</xapMM:OriginalDocumentID>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
